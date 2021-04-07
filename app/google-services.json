@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91201215722",
+    "project_id": "bootcamploginsocialnetwork",
+    "storage_bucket": "bootcamploginsocialnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91201215722:android:8c00ac691ebc8c57070b93",
+        "android_client_info": {
+          "package_name": "com.example.bootcamploginsocialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91201215722-8hqm0mefdj9uf3oeiqocvap17d332hb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNf5tFxtgsLX7gsmYr4mLmDjVS-k3lRZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91201215722-8hqm0mefdj9uf3oeiqocvap17d332hb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
